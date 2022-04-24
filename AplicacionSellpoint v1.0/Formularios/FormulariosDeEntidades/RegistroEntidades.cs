@@ -56,7 +56,6 @@ namespace AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades
             int Credito=int.Parse(txtLCredito.Text);
             int Nu_documento = int.Parse(txtNumDoc.Text);
 
-
             string query=String.Format("INSERT INTO Entidades (Descripcion,Direccion,Localidad,TipoDocumento,TipoEntidad,NumeroDocumento," +
                 "Teléfonos,URLPaginaWeb,URLFacebook,URLInstagram,URLTwitter,URLTikTok,IdGrupoEntidad,IdTipoEntidad,LimiteCredito," +
                 "UserNameEntidad,PassworEntidad, RolUserEntidad,Comentario,Status,NoEliminable,FechaRegistro) VALUES ('{0}','{1}'," +
