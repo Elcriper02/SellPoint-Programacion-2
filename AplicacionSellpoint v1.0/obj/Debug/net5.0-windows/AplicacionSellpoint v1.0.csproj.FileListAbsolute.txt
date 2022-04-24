@@ -1,0 +1,166 @@
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.exe
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.deps.json
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.json
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.dev.json
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.frmMenuPrincipal.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.GenerateResource.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfo.cs
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.genruntimeconfig.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\ref\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CopyComplete
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmAcercaDe.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmIniciarSesion.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\refint\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Properties.Resources.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeGruposDeEntidades.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeTiposDeEntidades.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmAgregarGrupoDeEntidades.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.exe
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.deps.json
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.json
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.dev.json
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.AssemblyReference.cache
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmAgregarGrupoDeEntidades.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeGruposDeEntidades.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeTiposDeEntidades.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmAcercaDe.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmIniciarSesion.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.frmMenuPrincipal.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.SplashScreen.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Properties.Resources.resources
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.GenerateResource.cache
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfoInputs.cache
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfo.cs
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CopyComplete
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\refint\AplicacionSellpoint v1.0.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.genruntimeconfig.cache
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\ref\AplicacionSellpoint v1.0.dll
+C:\Users\Shagy\OneDrive\Escritorio\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.RegistroEntidades.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.exe
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.deps.json
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.json
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.dev.json
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\ref\AplicacionSellpoint v1.0.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmAgregarGrupoDeEntidades.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeGruposDeEntidades.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeTiposDeEntidades.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.RegistroEntidades.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmAcercaDe.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmIniciarSesion.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.frmMenuPrincipal.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.SplashScreen.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Properties.Resources.resources
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfoInputs.cache
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfo.cs
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CopyComplete
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\ref\AplicacionSellpoint v1.0.dll
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\carlo\Downloads\SellPoint-main\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.genruntimeconfig.cache
